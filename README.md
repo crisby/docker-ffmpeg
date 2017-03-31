@@ -46,7 +46,7 @@ ffmpeg version 3.2.1 Copyright (c) 2000-2016 the FFmpeg developers
 ```
 
 ### 3.2.1-nvenc
-Output of `nvidia-docker run --rm -it alfpark/ffmpeg:3.1.3-nvenc -buildconf`:
+Output of `docker run --rm -it alfpark/ffmpeg:3.1.3-nvenc -buildconf`:
 ```
 ffmpeg version 3.2.1 Copyright (c) 2000-2016 the FFmpeg developers
   built with gcc 4.8 (Ubuntu 4.8.4-2ubuntu1~14.04.3)
